@@ -1,0 +1,2 @@
+﻿SourceIP,WindowStartUTC,WindowEndUTC,FailedAttempts,TargetUsers,Alert
+192.0.2.10,2026-10-22T10:00:00+00:00,2026-10-22T10:04:00+00:00,5,admin;guest;testuser,Potential brute-force activity
